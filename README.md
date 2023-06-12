@@ -13,7 +13,7 @@ Authentication(Authn) verifies the identity of a users or service. We will go th
 * OTP (One TIme Password)
 * Public Key Cyptography
 
-## Implementting Auth
+## Implementing Auth
 
 ### Custom Auth
 
