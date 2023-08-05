@@ -5,7 +5,7 @@ Authentication(Authn) verifies the identity of a users or service. We will go th
 ## Concepts (Types of Auth Available Today for Web)
 
 * Credentials
-* Sigle Sign On (SSO)
+* Single Sign On (SSO)
 * 2FA (Two-Factor Authentication)
 * MFA (Multi-Factor Authentication)
 * OAuth 2.0
